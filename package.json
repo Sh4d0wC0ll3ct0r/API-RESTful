@@ -1,0 +1,22 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Proyecto de API RESTful con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxrl/API-RESTful.git"
+  },
+  "author": "Ing.Xavier Romero López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxrl/API-RESTful/issues"
+  },
+  "homepage": "https://github.com/oxrl/API-RESTful#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
